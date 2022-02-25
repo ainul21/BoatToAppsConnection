@@ -29,3 +29,11 @@ The control apps can be **downloaded** at the folder named **BoatController.apk*
 
 ## Image
 
+### Electronic
+![ControlBoard](https://user-images.githubusercontent.com/74603287/155671146-9242a33a-0a4a-46b2-855d-481f5ec8a23a.jpg)
+![Battery](https://user-images.githubusercontent.com/74603287/155671172-63e96daa-7517-4944-85ca-854f6efb5989.jpg)
+![motor](https://user-images.githubusercontent.com/74603287/155671194-67f7f150-9849-4b1e-8873-88aa15f576c6.jpg)
+
+### Apps
+![Apps 1](https://user-images.githubusercontent.com/74603287/155671590-940ebb7d-2daf-485a-afe1-c4cef6e9c7e7.jpg)
+![Apps 2](https://user-images.githubusercontent.com/74603287/155671594-1c6f1f74-7e30-431d-91fd-03c2bb55ecd8.jpg)
